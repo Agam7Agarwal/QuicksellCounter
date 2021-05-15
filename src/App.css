@@ -68,7 +68,7 @@ input[type=number] {
 input{
   border-right: 1px solid #b34041;
   border-left: 1px solid #b34041;
-  padding: 11.5px 0px;
+  padding: 11.5px 0;
   background-color: #fbe9e9;
   color: #b34041;
   min-width: 50px;
@@ -78,4 +78,5 @@ input{
   text-align: center;
   font-size: 15px;
   font-weight: bold;
+  height: 23px;
 }
